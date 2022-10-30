@@ -1,0 +1,27 @@
+.image {
+    height: auto;
+    width: auto;
+}
+
+.autobiography {
+    display: flex;
+    justify-content: center;
+}
+
+.biography {
+    border-style: groove;
+}
+
+.photo {
+    display: flex;
+    justify-content: center;
+}
+
+.about {
+    padding-top: 3%;
+    padding: 0 20%;
+}
+
+h3 {
+    padding: 0 20%;
+}

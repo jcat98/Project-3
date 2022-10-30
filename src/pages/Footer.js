@@ -3,7 +3,7 @@ import "./Footer.css";
 
 const Footer = () => (
   <div className="footer">
-    <p>This is some content in sticky footer</p>
+    <a style={{ color: 'white' }} href="https://github.com/jcat98/Project-3">Github Repo</a>
   </div>
 );
 
